@@ -4,29 +4,89 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "kino",
-      "publisher": "kinoshan",
-      "tray_image_file": "https://raw.githubusercontent.com/Kinoshan/stickers/main/Android/app/src/main/assets/1/01_Cuppy_smile.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
+      "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/Kinoshan/stickers/main/Android/app/src/main/assets/1/01_Cuppy_smile.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["?","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/Kinoshan/stickers/main/Android/app/src/main/assets/1/02_Cuppy_lol.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Kinoshan/myjson/main/ezgif-1-d5b8562625.webp",
+          "emojis": ["??","??"]
         }
       ]
     }
