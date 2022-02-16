@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
+      "name": "Cuppy01",
       "publisher": "Jane Doe",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "image_data_version": "1",
@@ -193,7 +193,7 @@
     },
     {
       "identifier": "2",
-      "name": "Together While Apart",
+      "name": "Together While Apart01",
       "publisher": "World Health Organization",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "image_data_version": "1",
