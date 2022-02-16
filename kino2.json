@@ -194,7 +194,7 @@
     {
       "identifier": "2",
       "name": "Together While Apart01",
-      "publisher": "World Health Organization",
+      "publisher": "World",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "image_data_version": "1",
       "avoid_cache": false,
