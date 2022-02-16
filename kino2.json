@@ -4,8 +4,8 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Kino",
-      "publisher": "Jane Doe",
+      "name": "Kinoshan",
+      "publisher": "kino",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "publisher_email":"",
       "publisher_website": "",
