@@ -11,7 +11,7 @@
 	"license_agreement_website": "",
 	"animated_sticker_pack": false,
 	"stickers": "",
-	"stickerjson ": [{
+	"stickerjson": [{
 		"01_Cuppy_smile.webp": ["☕", "🙂"],
 		"02_Cuppy_lol.webp": ["😄", "😀"],
 		"03_Cuppy_rofl.webp": ["😆", "😂"],
@@ -47,7 +47,9 @@
 	"privacy_policy_website": "",
 	"license_agreement_website": "",
 	"animated_sticker_pack": true,
-	"stickers": [{
+	"stickers": "",
+	"stickerjson":
+	[{
 		"01_Cuppy_smile.webp": ["☕", "🙂"],
 		"02_Cuppy_lol.webp": ["😄", "😀"],
 		"03_Cuppy_rofl.webp": ["😆", "😂"],
