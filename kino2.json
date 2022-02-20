@@ -5,12 +5,12 @@
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
 	"avoid_cache": false,
-	"publisher_email": "",
-	"publisher_website": "",
-	"privacy_policy_website": "",
-	"license_agreement_website": "",
+	"publisher_email": "kino",
+	"publisher_website": "kino",
+	"privacy_policy_website": "kino",
+	"license_agreement_website": "kino",
 	"animated_sticker_pack": false,
-	"stickers": ""
+	"stickers": "kino"
 }, {
 	"identifier": "2",
 	"name": "Together While Apart01",
@@ -18,10 +18,10 @@
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
 	"avoid_cache": false,
-	"publisher_email": "",
-	"publisher_website": "",
-	"privacy_policy_website": "",
-	"license_agreement_website": "",
+	"publisher_email": "kino",
+	"publisher_website": "kino",
+	"privacy_policy_website": "kino",
+	"license_agreement_website": "kino",
 	"animated_sticker_pack": true,
-	"stickers": ""
+	"stickers": "kino"
 }]
