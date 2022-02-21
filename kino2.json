@@ -11,6 +11,13 @@
 	"license_agreement_website": "",
 	"animated_sticker_pack": false,
 	"stickers": "/data/user/0/com.kinoshanth.whatsapp_stickers_tamil/app_flutter/stickers",
+	"homestickers": [{
+		"01_Cuppy_smile.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/01_Cuppy_smile.webp",
+		"02_Cuppy_lol.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/02_Cuppy_lol.webp",
+		"03_Cuppy_rofl.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/03_Cuppy_rofl.webp",
+		"04_Cuppy_sad.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/04_Cuppy_sad.webp",
+		"05_Cuppy_cry.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/05_Cuppy_cry.webp"
+	}],
 	"stickerjson": [{
 		"01_Cuppy_smile.webp": ["☕", "🙂"],
 		"02_Cuppy_lol.webp": ["😄", "😀"],
@@ -48,8 +55,14 @@
 	"license_agreement_website": "",
 	"animated_sticker_pack": true,
 	"stickers": "/data/user/0/com.kinoshanth.whatsapp_stickers_tamil/app_flutter/stickers",
-	"stickerjson":
-	[{
+	"homestickers": [{
+		"01_Cuppy_smile.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/01_Cuppy_smile.webp",
+		"02_Cuppy_lol.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/02_Cuppy_lol.webp",
+		"03_Cuppy_rofl.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/03_Cuppy_rofl.webp",
+		"04_Cuppy_sad.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/04_Cuppy_sad.webp",
+		"05_Cuppy_cry.webp": "https://raw.githubusercontent.com/Kinoshan/myjson/main/WhatsappStickers/StickerPack-1/Assets/05_Cuppy_cry.webp"
+	}],
+	"stickerjson": [{
 		"01_Cuppy_smile.webp": ["☕", "🙂"],
 		"02_Cuppy_lol.webp": ["😄", "😀"],
 		"03_Cuppy_rofl.webp": ["😆", "😂"],
