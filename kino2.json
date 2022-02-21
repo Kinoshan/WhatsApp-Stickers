@@ -1,6 +1,6 @@
 [{
 	"identifier": "1",
-	"name": "Kinoshan01",
+	"name": "StickerPack-1",
 	"publisher": "Jane Doe",
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
@@ -37,7 +37,7 @@
 	}]
 }, {
 	"identifier": "2",
-	"name": "Together While Apart01",
+	"name": "StickerPack-2",
 	"publisher": "World",
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
