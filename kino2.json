@@ -1,6 +1,7 @@
 [{
 	"identifier": "1",
 	"name": "StickerPack-1",
+	"stickername": "kinoshan",
 	"publisher": "Jane Doe",
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
@@ -45,6 +46,7 @@
 }, {
 	"identifier": "2",
 	"name": "StickerPack-2",
+	"stickername": "kinoshan",
 	"publisher": "World",
 	"tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
 	"image_data_version": "1",
