@@ -66,7 +66,7 @@
       "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/Kinoshan/stickers/main/Android/app/src/main/assets/2/01_SendingLove.webp",
+          "image_file": "https://res.cloudinary.com/demo/image/upload/fl_awebp/bored_animation.webp",
           "emojis": [
             "🥰",
             "😘",
