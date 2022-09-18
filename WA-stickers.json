@@ -163,9 +163,9 @@
 		},
 		{
 			"identifier": "3",
-			"name": "Cute Purple Dragons",
+			"name": "Cute Ghost",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -174,75 +174,83 @@
 			"license_agreement_website": "",
 			"animated_sticker_pack": false,
 			"stickers": [{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-1.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/1.webp",
 					"emojis": ["?", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-2.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/2.webp",
+					"emojis": ["??", "??"]
+				},
+								{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/3.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-3.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/4.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-4.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/5.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-5.webp",
-					"emojis": ["?", "??"]
-				},
-				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-6.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/6.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-7.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/7.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-8.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/8.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-9.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/9.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-10.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/10.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-11.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/11.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-12.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/12.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-13.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/13.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-14.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/14.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-15.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/15.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-16.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/16.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-17.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/17.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-18.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/18.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/19.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/ghost/20.webp",
 					"emojis": ["??", "??"]
 				}
 			]
@@ -251,7 +259,7 @@
 			"identifier": "4",
 			"name": "SpongeBob",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/SpongeBob/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -359,9 +367,9 @@
 		},
 		{
 			"identifier": "5",
-			"name": "Cute Purple Dragons",
+			"name": "Cute Panda",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -370,84 +378,92 @@
 			"license_agreement_website": "",
 			"animated_sticker_pack": false,
 			"stickers": [{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-1.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/1.webp",
 					"emojis": ["?", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-2.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/2.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-3.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/3.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-4.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/4.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-5.webp",
-					"emojis": ["?", "??"]
-				},
-				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-6.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/5.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-7.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/6.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-8.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/7.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-9.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/8.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-10.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/9.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-11.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/10.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-12.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/11.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-13.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/12.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-14.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/13.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-15.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/14.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-16.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/15.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-17.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/16.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-18.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/17.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/18.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/19.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/panda/20.webp",
 					"emojis": ["??", "??"]
 				}
 			]
 		},
 		{
 			"identifier": "6",
-			"name": "Cute Purple Dragons",
+			"name": "Cute Ping Doggy",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -456,84 +472,92 @@
 			"license_agreement_website": "",
 			"animated_sticker_pack": false,
 			"stickers": [{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-1.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/1.webp",
 					"emojis": ["?", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-2.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/2.webp",
+					"emojis": ["??", "??"]
+				},
+								{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/3.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-3.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/4.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-4.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/5.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-5.webp",
-					"emojis": ["?", "??"]
-				},
-				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-6.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/6.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-7.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/7.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-8.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/8.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-9.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/9.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-10.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/10.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-11.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/11.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-12.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/12.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-13.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/13.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-14.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/14.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-15.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/15.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-16.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/16.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-17.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/17.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-18.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/18.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/19.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/pingdoggy/20.webp",
 					"emojis": ["??", "??"]
 				}
 			]
 		},
 		{
 			"identifier": "7",
-			"name": "Cute Purple Dragons",
+			"name": "Cute Squarl",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -542,84 +566,92 @@
 			"license_agreement_website": "",
 			"animated_sticker_pack": false,
 			"stickers": [{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-1.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/1.webp",
 					"emojis": ["?", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-2.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/2.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-3.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/3.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-4.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/4.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-5.webp",
-					"emojis": ["?", "??"]
-				},
-				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-6.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/5.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-7.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/6.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-8.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/7.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-9.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/8.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-10.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/9.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-11.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/10.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-12.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/11.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-13.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/12.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-14.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/13.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-15.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/14.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-16.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/15.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-17.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/16.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-18.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/17.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/18.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/19.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/squarl/20.webp",
 					"emojis": ["??", "??"]
 				}
 			]
 		},
 		{
 			"identifier": "8",
-			"name": "Cute Purple Dragons",
+			"name": "Cute Tom&Jerry",
 			"publisher": "Trending Stickers",
-			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/tray-icon.png",
+			"tray_image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/tray-icon.png",
 			"image_data_version": "1",
 			"avoid_cache": false,
 			"publisher_email": "",
@@ -628,75 +660,83 @@
 			"license_agreement_website": "",
 			"animated_sticker_pack": false,
 			"stickers": [{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-1.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/1.webp",
 					"emojis": ["?", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-2.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/2.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-3.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/3.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-4.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/4.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-5.webp",
-					"emojis": ["?", "??"]
-				},
-				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-6.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/5.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-7.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/6.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-8.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/7.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-9.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/8.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-10.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/9.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-11.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/10.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-12.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/11.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-13.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/12.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-14.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/13.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-15.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/14.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-16.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/15.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-17.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/16.webp",
 					"emojis": ["??", "??"]
 				},
 				{
-					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/dragon/dragon-18.webp",
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/17.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/18.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/19.webp",
+					"emojis": ["??", "??"]
+				},
+				{
+					"image_file": "https://raw.githubusercontent.com/Kinoshan/WhatsApp-Stickers/main/Stickers/tom&jerry/20.webp",
 					"emojis": ["??", "??"]
 				}
 			]
